@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-call-recorder-master.iml" filepath="$PROJECT_DIR$/.idea/modules/android-call-recorder-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-audio-library/android-call-recorder-master.android-audio-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-audio-library/android-call-recorder-master.android-audio-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-library/android-call-recorder-master.android-library.iml" filepath="$PROJECT_DIR$/.idea/modules/android-library/android-call-recorder-master.android-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/android-call-recorder-master.android-vorbis.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/android-call-recorder-master.android-vorbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/libogg/android-call-recorder-master.android-vorbis.libogg.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/libogg/android-call-recorder-master.android-vorbis.libogg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android-vorbis/libvorbis/android-call-recorder-master.android-vorbis.libvorbis.iml" filepath="$PROJECT_DIR$/.idea/modules/android-vorbis/libvorbis/android-call-recorder-master.android-vorbis.libvorbis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android-call-recorder-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android-call-recorder-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jebml/android-call-recorder-master.jebml.iml" filepath="$PROJECT_DIR$/.idea/modules/jebml/android-call-recorder-master.jebml.iml" />
+    </modules>
+  </component>
+</project>
